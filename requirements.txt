@@ -1,0 +1,30 @@
+# Chatbot RH & Santé - Dépendances
+# Installez avec : pip install -r requirements.txt
+
+# Base de données Oracle
+oracledb>=2.0.0
+
+# API LLM
+groq>=0.4.0
+openai>=1.0.0
+
+# Validation SQL
+sqlglot>=20.0.0
+
+# Variables d'environnement
+python-dotenv>=1.0.0
+
+# API REST (optionnel)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+
+# Utilitaires
+requests>=2.31.0
+
+oracledb
+groq
+sqlglot
+fastapi
+uvicorn
+python-dotenv
