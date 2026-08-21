@@ -1,3 +1,6 @@
+
+
+
 # NL2SQL HR Chatbot
 
 Chatbot RH intelligent permettant d'interroger une base de données Oracle en langage naturel, avec authentification JWT et contrôle d'accès basé sur les rôles (RBAC).
@@ -5,7 +8,7 @@ Chatbot RH intelligent permettant d'interroger une base de données Oracle en la
 ## Démo
 
 <!-- Remplace ce lien par celui généré automatiquement quand tu glisses ta vidéo dans l'éditeur GitHub -->
-https://github.com/user-attachments/assets/TON-LIEN-VIDEO-ICI
+https://github.com/user-attachments/assets/b3057d2d-6849-4a70-b260-c25d72409d91
 
 ## Fonctionnalités
 
